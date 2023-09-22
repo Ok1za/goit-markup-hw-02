@@ -52,18 +52,18 @@
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 1.12px;
 }
 
 .main-button {
-    border-radius: 4px;
-    background: #4D5AE5;
-    color: var(--WHITE, #FFF);
+    background-color: #404BBF
+    color: #FFF;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
+    cursor: pointer;
 }
