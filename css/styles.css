@@ -52,9 +52,9 @@
     letter-spacing: 0.02em; 
 }
 
-.header-list-item a:hover,
-.header-list-item a:focus {
-    background-color: #404BBF
+.header-list-item:hover,
+.header-list-item:focus {
+    color: #404BBF;
 }
 
 
