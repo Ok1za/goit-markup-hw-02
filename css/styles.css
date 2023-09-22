@@ -1,12 +1,11 @@
 .body {
     font-family: "Roboto", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    color: #4d5ae5;
+    font-size: 16px;
+    font-weight: "Regular";
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
     background-color: #ffffff;
-    text-transform: uppercase;
 }
 
 .header-nav {
