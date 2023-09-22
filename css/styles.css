@@ -12,7 +12,7 @@
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    letter-spacing: 0.03;
+    letter-spacing: 0.03em;
     line-height: 1.17;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -20,6 +20,36 @@
 
 .header-text {
     color: #2e2f42;
+}
+
+.top-line {
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.top-line:hover,
+.top-line:focus {
+    background-color: #404BBF
+}
+
+.top-line-contacts {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.top-line-contacts:hover,
+.top-line-contacts:focus {
+    background-color: #404BBF
 }
 
 /* Section one */
@@ -70,25 +100,6 @@
 
 }
 
-.top-line {
-    color: #2e2f42;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.top-line-contacts {
-    color: #434455;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-}
 
 /* Section four */
 
