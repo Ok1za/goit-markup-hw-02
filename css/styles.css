@@ -1,11 +1,12 @@
 .body {
     font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-weight: "Regular";
-    line-height: 1.5;
-    letter-spacing: 2%;
-    color: #434455;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
     background-color: #ffffff;
+    text-transform: uppercase;
 }
 
 .header-nav {
@@ -19,6 +20,13 @@
 }
 
 .header-menu-link {
+    font-family: "Raleway", sans-serify;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 
 }
 
@@ -27,13 +35,17 @@
 }
 
 .header-list {
+
+}
+
+.header-list-item {
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em; 
 }
 
 .header-list:hover,
