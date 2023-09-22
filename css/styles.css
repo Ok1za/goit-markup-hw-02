@@ -37,6 +37,47 @@
     color: #2e2f42;
 }
 
+.header-list-item {
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em; 
+}
+
+.header-list-item:hover,
+.header-list-item:focus {
+    color: #404BBF;
+}
+
+.header-list-contacts {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.header-list-contacts:hover,
+.header-list-contacts:focus {
+    background-color: #404BBF
+}
+
+.header-address {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-address:hover,
+.header-address:focus {
+    color: #404bbf;
+}
 
 /* Section one */
 
