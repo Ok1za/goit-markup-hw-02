@@ -30,6 +30,11 @@
 
 }
 
+.header-menu-link:hover,
+.header-menu-link:focus {
+    color: #404BBF;
+}
+
 .header-list-item:hover {
     color: #404bbf;
 }
