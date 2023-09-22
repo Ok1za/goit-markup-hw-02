@@ -188,11 +188,52 @@ letter-spacing: 0.32px;
 /* Section four */
 
 .portfolio {
-
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .portfolio-title {
+    color: #2E2F42;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
 
+.portfolio-list {
+
+}
+
+.portfolio-item {
+background: #FFF;
+}
+
+.portfolio-subtitle {
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+
+.portfolio-text {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
 }
 
 /* Footer */
