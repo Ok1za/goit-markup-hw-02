@@ -18,12 +18,15 @@
     color: #4d5ae5;
 }
 
+.header-menu-link {
+
+}
 
 .header-text {
     color: #2e2f42;
 }
 
-.top-line {
+.header-list {
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -33,12 +36,12 @@
     letter-spacing: 0.02em;
 }
 
-.top-line:hover,
-.top-line:focus {
+.header-list:hover,
+.header-list:focus {
     background-color: #404BBF
 }
 
-.top-line-contacts {
+.header-list-contacts {
     color: #434455;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -48,8 +51,8 @@
     letter-spacing: 0.32px;
 }
 
-.top-line-contacts:hover,
-.top-line-contacts:focus {
+.header-list-contacts:hover,
+.header-list-contacts:focus {
     background-color: #404BBF
 }
 
@@ -59,7 +62,7 @@
     background-color: #2E2F42;
 }
 
-.main-headline {
+.main-title {
     color: #FFF;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -86,9 +89,10 @@
 .main-button:focus {
     background-color: #404BBF
 }
+
 /* Section two */
 
-.description {
+.description-list {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -98,7 +102,7 @@
 
 /* Section three */
 
-.our-team {
+.members-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -109,7 +113,7 @@
 
 }
 
-.card-name {
+.card-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -120,7 +124,7 @@
     letter-spacing: 0.4px;
 }
 
-.card-outline {
+.card-item {
     color: var(--SLATE, #434455);
 text-align: center;
 font-family: "Roboto", sans-serif;
@@ -133,7 +137,7 @@ letter-spacing: 0.32px;
 
 /* Section four */
 
-.our-portfolio {
+.portfolio-title {
 
 }
 
@@ -157,7 +161,7 @@ letter-spacing: 0.32px;
     color: #F4F4FD;
 }
 
-.footer-text {
+.footer-item {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
