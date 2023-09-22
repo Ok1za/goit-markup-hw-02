@@ -1,9 +1,72 @@
 .body {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: "Regular";
     line-height: 1.5;
     letter-spacing: 2%;
-    color: #434445;
+    color: #434455;
     background-color: #ffffff;
+}
+
+.header {
+    width: 1440px;
+    height: 72px;
+}
+
+.our-team {
+    width: 1440px;
+    height: 732px;
+    flex-shrink: 0;
+    background: #F4F4FD;
+}
+
+.top-line {
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.top-line-contacts {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.main {
+    width: 1440px;
+    height: 600px;
+    background: #2E2F42;
+}
+
+.main-headline {
+    color: #FFF;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+}
+
+.main-button {
+    padding: 16px 32px;
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: rgba(0, 0, 0, 0.15);
+    color: var(--WHITE, #FFF);
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
 }
