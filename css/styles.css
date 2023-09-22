@@ -9,7 +9,11 @@
 }
 
 .logo-link {
-    
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .logo-link:hover,
@@ -78,8 +82,20 @@
     letter-spacing: 0.02em;
 }
 
-.header-list-contacts a:hover,
-.header-list-contacts a:focus {
+.header-address {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-address:hover,
+.header-address:focus {
+    color: #404bbf;
+}
+
+.header-list-contacts:hover,
+.header-list-contacts:focus {
     background-color: #404BBF
 }
 
