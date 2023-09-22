@@ -9,24 +9,33 @@
 }
 
 .header {
-    width: 1440px;
-    height: 72px;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.03;
+    line-height: 1.17;
+    text-transform: uppercase;
 }
 
 .our-team {
-    width: 1440px;
-    height: 732px;
+    color: #2e2f42;
     background: #F4F4FD;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+
 }
 
 .top-line {
-    color: #2E2F42;
+    color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
 }
 
 .top-line-contacts {
@@ -42,11 +51,12 @@
 .main {
     width: 1440px;
     height: 600px;
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .main-headline {
     color: #FFF;
+    background-color: #4d5ae5;
     text-align: center;
     font-family: "Roboto", sans-serif;
     font-size: 56px;
