@@ -51,6 +51,10 @@
     cursor: pointer;
 }
 
+.main-button:hover,
+.main-button:focus {
+    background-color: #404BBF
+}
 /* Section two */
 
 
@@ -101,7 +105,7 @@
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -111,5 +115,5 @@
 
 .footer-text {
     color: #F4F4FD;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
 }
