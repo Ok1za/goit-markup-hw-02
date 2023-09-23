@@ -99,7 +99,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
 }
 
 .main-button {
@@ -110,7 +110,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 
